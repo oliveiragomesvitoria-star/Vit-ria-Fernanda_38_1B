@@ -4,4 +4,5 @@ background: rgb(110, 149, 221);
 }
 header{
     border-bottom: solid 2px rgb(rgba(109, 55, 166, 0.925));
+    padding: 20px;
 }
